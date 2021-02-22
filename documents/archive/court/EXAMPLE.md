@@ -1,6 +1,11 @@
-Court Case
+# Example Court Case
 
 Description: Example case, please note that all usernames are fictional.
+Occurred: N/A
+Registered: 2021-02-22T18:27:10,537397836-03:00
+Parties: (hypothetical)
+Registered-By: Gustavo6046
+---
 
 ## Pretext
 
@@ -14,9 +19,9 @@ A member of the Administration, or one of the Chief Moderators, sees that the co
 
 First, one of the purported victims, _Alli_, is inducted as a Testifier. That is, the role Testifier is set, so they may speak in #court. _Alli_ may, for clarity's sake, be referred to as **Testifier #1**. _Alli_ was mentioned by _JoeBad_ in one of his rantages, as an unknown clash had happened between the two previously.
 
-**Handler:** Thanks [Alli], Is it true that Joe was being unpleasant to you in some way? Can you tell us more about it?
+**Handler:** Thanks \[Alli\], Is it true that Joe was being unpleasant to you in some way? Can you tell us more about it?
 **Testifier #1:** Yeah, he was being an idiot to me, I'm not sure if that has anything to do with what happened earlier, but yeah, feel free to ask about it.
-**Handler:** Alright, then. [Alli,] please submit your testification with regards to [JoeBad]'s acts of harassment and bot abuse.
+**Handler:** Alright, then. \[Alli,\] please submit your testification with regards to \[JoeBad\]'s acts of harassment and bot abuse.
 **Testifier #1:** He was making some really dumb jokes in dm's, even after I told him to stop. I blocked him, but then he started annoying other people in the Hub about it. That's all I know.
 **Handler:** Excellent, thank you.
 
@@ -43,7 +48,7 @@ As the defendant did present a counter-argument, it is possible to request furth
 
 In this hypothetical example case, it turns out that _Lyon_ is also a known Hub member. They are inducted to testify as well. For the sake of clarity, log headers will refer to him as **Testifier #2**.
 
-**Handler:** So, [Lyon,] we are trialing [JoeBad] over general harassment and bot abuse. You can read above. Allegedly, the defendant was harassing [Alli] in private messages, which she blocked, which caused him to continue his provocations in the Hub. However, [JoeBad's] allegations contradict with that, and state that she had pestered you in some way prior to, and according to him justifying, his actions. Can you tell us about it? Do you have anything to say about it?
+**Handler:** So, \[Lyon,\] we are trialing \[JoeBad\] over general harassment and bot abuse. You can read above. Allegedly, the defendant was harassing \[Alli\] in private messages, which she blocked, which caused him to continue his provocations in the Hub. However, \[JoeBad's\] allegations contradict with that, and state that she had pestered you in some way prior to, and according to him justifying, his actions. Can you tell us about it? Do you have anything to say about it?
 **Testifier #2:** Oh, Joe is lying. I and Alli were roleplaying in the channels, just for fun, and I guess that upset Joe. I dunno why, it wasn't anything serious.
 **Handler:** Ah, I see. Thank you.
 
@@ -51,7 +56,7 @@ _Lyon_'s Testifier role is unset.
 
 It is now apparent to the Handler that Joe was lying about it, and that it was, in fact, a casual roleplay between Alli and Lyon, which is a blow to Joe's own credibility in the case. However, it still pends confirmation, so once again Alli is inducted to testify.
 
-**Handler:** Sorry that I have to inquire you again [@_Alli_], but Lyon has alleged that you two were performing casual roleplay in the Hub channels, and that that might have upset Joe.
+**Handler:** Sorry that I have to inquire you again \[@_Alli_\], but Lyon has alleged that you two were performing casual roleplay in the Hub channels, and that that might have upset Joe.
 **Testifier #1:** Yeah, Joe was mad about it, but he seemed passive-aggressive more than anything. At first, anyway.
 **Handler:** Thank you.
 
