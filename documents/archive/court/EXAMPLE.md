@@ -1,10 +1,15 @@
 # Example Court Case
 
 Description: Example case, please note that all usernames are fictional.
+
 Occurred: N/A
+
 Registered: 2021-02-22T18:27:10,537397836-03:00
+
 Parties: (hypothetical)
+
 Registered-By: Gustavo6046
+
 ---
 
 ## Pretext
