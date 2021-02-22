@@ -6,5 +6,8 @@
   "repository": "https://github.com/Gustavo6046/horizon-hub",
   "author": "Gustavo6046 <rehermann6046@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  }
 }
