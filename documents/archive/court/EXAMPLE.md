@@ -8,7 +8,7 @@ Registered: 2021-02-22T18:27:10,537397836-03:00
 
 Parties: (hypothetical)
 
-Registered-By: Gustavo6046
+Registered-By: Gustavo6046  
 
 ---
 
@@ -16,9 +16,7 @@ Registered-By: Gustavo6046
 
 _JoeBad_ is accused of member harassment and general bot abuse. The three warning levels were fully exhausted, and he has been assigned the Defendant role, which is an in-server probation, with very restricted access.
 
-## Trial
-
-### Initial Testification
+## Initial Testification
 
 A member of the Administration, or one of the Chief Moderators, sees that the court is not in use, and initiates the case. *JoeBad*'s case is handled this time, with him being chosen as the defendant. _JoeBad_ may, for clarity's sake, be referred to as the **Defendant**.
 
@@ -34,7 +32,7 @@ After helping the handler team, _Alli_'s Testifier role is unset, and the case c
 
 **Handler:** I think that it sounds reasonable. It corroborates with the message logs, so I think no further testification is needed for the moment.
 
-### Defendant's Argument
+## Defendant's Argument
 
 Since no further testification is currently requested, the handler gives the **Defendant**, that is _JoeBad_,, the Testifier role. This does not state that they are a witness, but rather allows them to speak in #court.
 
@@ -47,7 +45,7 @@ Joe responds within 5 (five) minutes, which is well within the maximum of 40 (fo
 **Defendant:** I plea not guilty.
 **Handler:** You presented an argument, or something, so I will see about that.
 
-### Case Development
+## Case Development
 
 As the defendant did present a counter-argument, it is possible to request further testification, and the plea is considered inconclusive, that is, not enough to form a resolute decision such as a sentence. _JoeBad_'s Testifier role is, of course, unset.
 
@@ -67,7 +65,7 @@ It is now apparent to the Handler that Joe was lying about it, and that it was, 
 
 After this brief exchange, Alli is once again exducted, that is, her Testifier role unset.
 
-### Conclusion
+## Conclusion
 
 With all the corroboration from the testifiers, and the defendant's contradiction, it is clear that there is no gray area to argue about. The Defendant is inducted once more.
 
