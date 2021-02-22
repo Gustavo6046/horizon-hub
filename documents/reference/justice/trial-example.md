@@ -84,3 +84,7 @@ Having resignated to the accusations, _JoeBad_ finally admits to his wrongdoings
 **Handler:** Ah. Alright. I guess this concludes the trials, then.
 
 Once the mute is applied, the court is freed.
+
+
+-----
+([return to index](README.md), [go up](..))
