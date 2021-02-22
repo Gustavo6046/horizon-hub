@@ -121,3 +121,4 @@ dist
 
 # svelte build
 build/
+build/*
